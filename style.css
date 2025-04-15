@@ -6,12 +6,13 @@ body{
 	font-style: normal;
 }
 img{
-	width: 15%;
+	width: 25%;
     margin-left: 5%;
     margin-right: 5%;
 }
 .foto{
 	text-align: center;
+
 }
 a{
 	text-decoration: none;
@@ -34,6 +35,6 @@ nav{
 	align-items: center;
 	gap: 450px;
 }
-parrafo{
+.parrafo{
 	margin: 10%;
 }
